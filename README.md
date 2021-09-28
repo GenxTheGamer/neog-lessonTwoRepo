@@ -1,4 +1,17 @@
-# neog-lessonTwoRepo
+# Website Hosted on Netlify | Github Repo Intro [Mark 3]
 
-This is a repository for Neog Lesson Two.
-It contains index.html, README.md .
+
+## Tech Used
+ - HTML
+ 
+ ## Tools used
+ 
+ - Netlify
+ - Github
+
+   
+
+
+## Live Showcase
+[Link to Live showcase on Netlify](https://firstwebsitehostedvv32.netlify.app/)
+
